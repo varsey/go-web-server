@@ -2,4 +2,6 @@
 
 * http://localhost:8081/
 
-[Useful link](https://tutorialedge.net/golang/creating-simple-web-server-with-golang/)
+[Useful link 1](https://tutorialedge.net/golang/creating-simple-web-server-with-golang/)
+
+[Useful link 2](https://gobyexample.com/if-else)
